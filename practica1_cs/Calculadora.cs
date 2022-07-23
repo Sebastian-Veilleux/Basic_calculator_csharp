@@ -11,6 +11,7 @@ namespace practica1_cs
         //atributo o caracteristica del objeto
         private Double numero1;
         private Double numero2;
+        private Double numero3;
         private Double resultado;
         // metodos o comportamientos del objeto
         //objetos siempre publicos

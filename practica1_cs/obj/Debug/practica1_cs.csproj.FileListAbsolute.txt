@@ -19,3 +19,14 @@ D:\Proulex Academy\c# code\practica1_cs\practica1_cs\obj\Debug\practica1_cs.cspr
 D:\Proulex Academy\c# code\practica1_cs\practica1_cs\obj\Debug\practica1_cs.csproj.CoreCompileInputs.cache
 D:\Proulex Academy\c# code\practica1_cs\practica1_cs\obj\Debug\practica1_cs.exe
 D:\Proulex Academy\c# code\practica1_cs\practica1_cs\obj\Debug\practica1_cs.pdb
+C:\Users\seval\OneDrive\Documentos\Basic_calculator_csharp\practica1_cs\bin\Debug\practica1_cs.exe.config
+C:\Users\seval\OneDrive\Documentos\Basic_calculator_csharp\practica1_cs\bin\Debug\practica1_cs.exe
+C:\Users\seval\OneDrive\Documentos\Basic_calculator_csharp\practica1_cs\bin\Debug\practica1_cs.pdb
+C:\Users\seval\OneDrive\Documentos\Basic_calculator_csharp\practica1_cs\obj\Debug\practica1_cs.csproj.AssemblyReference.cache
+C:\Users\seval\OneDrive\Documentos\Basic_calculator_csharp\practica1_cs\obj\Debug\practica1_cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\seval\OneDrive\Documentos\Basic_calculator_csharp\practica1_cs\obj\Debug\practica1_cs.frmCalculadora.resources
+C:\Users\seval\OneDrive\Documentos\Basic_calculator_csharp\practica1_cs\obj\Debug\practica1_cs.Properties.Resources.resources
+C:\Users\seval\OneDrive\Documentos\Basic_calculator_csharp\practica1_cs\obj\Debug\practica1_cs.csproj.GenerateResource.cache
+C:\Users\seval\OneDrive\Documentos\Basic_calculator_csharp\practica1_cs\obj\Debug\practica1_cs.csproj.CoreCompileInputs.cache
+C:\Users\seval\OneDrive\Documentos\Basic_calculator_csharp\practica1_cs\obj\Debug\practica1_cs.exe
+C:\Users\seval\OneDrive\Documentos\Basic_calculator_csharp\practica1_cs\obj\Debug\practica1_cs.pdb
