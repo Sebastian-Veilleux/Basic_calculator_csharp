@@ -1,0 +1,21 @@
+D:\c# code\practica1_cs\practica1_cs\bin\Debug\practica1_cs.exe.config
+D:\c# code\practica1_cs\practica1_cs\bin\Debug\practica1_cs.exe
+D:\c# code\practica1_cs\practica1_cs\bin\Debug\practica1_cs.pdb
+D:\c# code\practica1_cs\practica1_cs\obj\Debug\practica1_cs.csproj.AssemblyReference.cache
+D:\c# code\practica1_cs\practica1_cs\obj\Debug\practica1_cs.frmCalculadora.resources
+D:\c# code\practica1_cs\practica1_cs\obj\Debug\practica1_cs.Properties.Resources.resources
+D:\c# code\practica1_cs\practica1_cs\obj\Debug\practica1_cs.csproj.GenerateResource.cache
+D:\c# code\practica1_cs\practica1_cs\obj\Debug\practica1_cs.csproj.CoreCompileInputs.cache
+D:\c# code\practica1_cs\practica1_cs\obj\Debug\practica1_cs.exe
+D:\c# code\practica1_cs\practica1_cs\obj\Debug\practica1_cs.pdb
+D:\Proulex Academy\c# code\practica1_cs\practica1_cs\bin\Debug\practica1_cs.exe.config
+D:\Proulex Academy\c# code\practica1_cs\practica1_cs\bin\Debug\practica1_cs.exe
+D:\Proulex Academy\c# code\practica1_cs\practica1_cs\bin\Debug\practica1_cs.pdb
+D:\Proulex Academy\c# code\practica1_cs\practica1_cs\obj\Debug\practica1_cs.csproj.AssemblyReference.cache
+D:\Proulex Academy\c# code\practica1_cs\practica1_cs\obj\Debug\practica1_cs.csproj.SuggestedBindingRedirects.cache
+D:\Proulex Academy\c# code\practica1_cs\practica1_cs\obj\Debug\practica1_cs.frmCalculadora.resources
+D:\Proulex Academy\c# code\practica1_cs\practica1_cs\obj\Debug\practica1_cs.Properties.Resources.resources
+D:\Proulex Academy\c# code\practica1_cs\practica1_cs\obj\Debug\practica1_cs.csproj.GenerateResource.cache
+D:\Proulex Academy\c# code\practica1_cs\practica1_cs\obj\Debug\practica1_cs.csproj.CoreCompileInputs.cache
+D:\Proulex Academy\c# code\practica1_cs\practica1_cs\obj\Debug\practica1_cs.exe
+D:\Proulex Academy\c# code\practica1_cs\practica1_cs\obj\Debug\practica1_cs.pdb
